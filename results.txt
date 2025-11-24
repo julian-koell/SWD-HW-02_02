@@ -1,0 +1,5 @@
+Computer Name: Julians-Laptop
+Date of Test: 2025-11-24 16:24:37
+Bubble Sort Time: 4.086433 seconds
+Quick Sort Time: 0.010987 seconds
+
