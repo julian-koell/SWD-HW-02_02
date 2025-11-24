@@ -1,0 +1,5 @@
+Computer Name: LAPTOP-7G2E7691
+Date of Test: 2025-11-24 16:07:05
+Bubble Sort Time: 3.639762 seconds
+Quick Sort Time: 0.009584 seconds
+
